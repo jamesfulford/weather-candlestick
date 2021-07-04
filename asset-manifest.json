@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/weather-candlestick/static/css/main.6abb1746.chunk.css",
+    "main.js": "/weather-candlestick/static/js/main.795ef4b2.chunk.js",
+    "main.js.map": "/weather-candlestick/static/js/main.795ef4b2.chunk.js.map",
+    "runtime-main.js": "/weather-candlestick/static/js/runtime-main.83ae87e4.js",
+    "runtime-main.js.map": "/weather-candlestick/static/js/runtime-main.83ae87e4.js.map",
+    "static/js/2.8db376ea.chunk.js": "/weather-candlestick/static/js/2.8db376ea.chunk.js",
+    "static/js/2.8db376ea.chunk.js.map": "/weather-candlestick/static/js/2.8db376ea.chunk.js.map",
+    "index.html": "/weather-candlestick/index.html",
+    "precache-manifest.e634780d7bcb72ded2a4620a61bea892.js": "/weather-candlestick/precache-manifest.e634780d7bcb72ded2a4620a61bea892.js",
+    "service-worker.js": "/weather-candlestick/service-worker.js",
+    "static/css/main.6abb1746.chunk.css.map": "/weather-candlestick/static/css/main.6abb1746.chunk.css.map",
+    "static/js/2.8db376ea.chunk.js.LICENSE.txt": "/weather-candlestick/static/js/2.8db376ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83ae87e4.js",
+    "static/js/2.8db376ea.chunk.js",
+    "static/css/main.6abb1746.chunk.css",
+    "static/js/main.795ef4b2.chunk.js"
+  ]
+}
