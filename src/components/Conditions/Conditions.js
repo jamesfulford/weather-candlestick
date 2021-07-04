@@ -46,7 +46,7 @@ const conditions = (props) => {
                     />
                 
                     {props.responseObj.list.map(l => {
-                        return <code>{new Date(l.dt * 1000).toLocaleDateString()} {l.temp.morn} {l.temp.min} {l.temp.max} {l.temp.eve}</code>
+                        return <code key={l.dt} >{new Date(l.dt * 1000).toLocaleDateString()} {l.temp.morn} {l.temp.min} {l.temp.max} {l.temp.eve}</code>
                     })}
                 </>
             : null
